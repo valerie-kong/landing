@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Outfit:wght@100..900&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: "EB Garamond", serif;
+	font-size: 18px;
+	margin:0px;
+}
+
+
+h1, h2, h3 {
+	font-family: "Outfit", sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
